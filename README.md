@@ -1,1 +1,1 @@
-hello
+A Collection of Katas
