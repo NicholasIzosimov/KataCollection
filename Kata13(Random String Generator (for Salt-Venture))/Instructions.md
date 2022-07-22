@@ -1,0 +1,2 @@
+Make a random string generator for the game "Salt n Pepper" https://salomaogabriel.github.io/salt-venture/
+We needed a string that generates a number on a random position in the string. pepperAmount is the amount of generated random numbers. Test the game for more information and to see the implementation of the kata!
